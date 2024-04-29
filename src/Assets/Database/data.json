@@ -1,0 +1,117 @@
+{
+  "maincategory": [
+    {
+      "id": "0"
+    },
+    {
+      "name": "Kids",
+      "id": "1"
+    },
+    {
+      "name": "Female",
+      "id": "2"
+    },
+    {
+      "id": "942e",
+      "name": "Male"
+    },
+    {
+      "id": "13f5",
+      "name": "house"
+    },
+    {
+      "id": "94f6",
+      "name": "fort"
+    }
+  ],
+  "subcategory": [
+    {
+      "id": "0"
+    },
+    {
+      "id": "ec80",
+      "name": "Jeans"
+    },
+    {
+      "id": "cef4",
+      "name": "Trouser"
+    },
+    {
+      "id": "a5bc",
+      "name": "Shirt"
+    },
+    {
+      "id": "bbfb",
+      "name": "drop"
+    }
+  ],
+  "brand": [
+    {
+      "id": "0"
+    },
+    {
+      "id": "3d6d",
+      "name": "polo"
+    },
+    {
+      "id": "e4e4",
+      "name": "nike"
+    },
+    {
+      "id": "943a",
+      "name": "Adidas"
+    },
+    {
+      "id": "e145",
+      "name": "campas"
+    },
+    {
+      "id": "44ce",
+      "name": "h&m"
+    },
+    {
+      "id": "d6b7",
+      "name": "ajio"
+    }
+  ],
+  "product": [
+    {
+      "id": "0"
+    }
+  ],
+  "user": [
+    {
+      "id": "0"
+    }
+  ],
+  "cart": [
+    {
+      "id": "0"
+    }
+  ],
+  "wishlist": [
+    {
+      "id": "0"
+    }
+  ],
+  "checkout": [
+    {
+      "id": "0"
+    }
+  ],
+  "newsletter": [
+    {
+      "id": "0"
+    }
+  ],
+  "contactus": [
+    {
+      "id": "0"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "0"
+    }
+  ]
+}
